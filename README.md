@@ -1,6 +1,6 @@
 # Telecom Churn Analysis and Future Churn Prediction 
 ---
-### This report integrates findings from both the **Churn Analysis** and **Churn Prediction** dashboards to provide a holistic view of customer attrition in a telecommunications context. The analysis highlights key factors driving churn, identifies customer segments most at risk of leaving, and proposes actionable, stakeholder-specific strategies to enhance customer retention, satisfaction, and revenue stability.
+### This report integrates findings from both the **Churn Analysis** and **Churn Prediction** to provide a holistic view of customer attrition in a telecommunications context. The analysis highlights key factors driving churn, identifies customer segments most at risk of leaving, and proposes actionable, stakeholder-specific strategies to enhance customer retention, satisfaction, and revenue stability.
 
 ---
 ## Metrics 
